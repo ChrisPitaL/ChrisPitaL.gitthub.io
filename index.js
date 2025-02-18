@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Gracias por decir que si Jimena, no te arrepentiras')
+    alert('Sabia que ibas a decir que si "Mi Reina"')
 });
 
 const noBtn = document.querySelector('#noBtn');
